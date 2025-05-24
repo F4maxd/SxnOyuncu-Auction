@@ -1,3 +1,3 @@
 # SxnOyuncu-Auction
 
-SonOyuncu Auction eklentisini düzenleyebilirsiniz. İyi çalışmalar!
+SonOyuncu Auction eklentisi, düzenleyebilirsiniz. İyi çalışmalar!
