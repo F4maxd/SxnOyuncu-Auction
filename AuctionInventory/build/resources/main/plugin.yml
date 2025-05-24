@@ -1,0 +1,11 @@
+name: AuctionInventory
+main: me.f4max.xyz.AuctionPlugin
+version: 1.0
+author: F4max
+api-version: 1.8
+depend: [ProtocolLib]
+
+commands:
+  ihale:
+    description: "İhale komutları"
+    usage: "/ihale başlat <fiyat> | /ihale"
