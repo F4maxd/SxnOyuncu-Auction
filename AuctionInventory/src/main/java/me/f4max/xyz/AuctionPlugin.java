@@ -29,7 +29,7 @@ public class AuctionPlugin extends JavaPlugin {
     @Override
     public void onEnable() {
         if (!setupEconomy()) {
-            getLogger().severe("Vault bulunamadı!");
+            getLogger().severe("Vault yok");
             getServer().getPluginManager().disablePlugin(this);
             return;
         }
